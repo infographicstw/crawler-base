@@ -1,0 +1,20 @@
+{
+  "author": "infographics.tw",
+  "name": "crawler-base",
+  "description": "simple, quick crawler boilerplate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/infographicstw/crawler-base",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infographicstw/crawler-base"
+  },
+  "engines": {
+    "node": ">=0.8.18",
+    "npm": ">=1.2.2"
+  },
+  "dependencies": {
+    "bluebird": "=2.9.21",
+    "cheerio": "=0.19.0",
+    "request": "=2.54.0"
+  }
+}
